@@ -119,7 +119,7 @@ system_prompt = (
 
         'c.) Esclavitud;'
 
-        'd) Deportación o traslado forzoso de población;'
+        'd) Deportación o traslado forzoso de población no tiene que decir expreamente sistematico o generalizado;'
 
         'e) Encarcelación u otra privación grave de la libertad física en violación de normas fundamentales de derecho internacional;'
 
