@@ -51,7 +51,7 @@ else:
 
 
 # Setup page configuration
-st.set_page_config(page_title="Avance Bot", layout="wide", page_icon='🧠')
+st.set_page_config(page_title="Andy Bot", layout="wide", page_icon='🧠')
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 # Titles and Main Heading
