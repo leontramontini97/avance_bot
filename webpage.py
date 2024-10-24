@@ -59,7 +59,7 @@ os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 st.markdown(
     """
     <div style='text-align: center;'>
-        <h2> Avance Bot 🧠  </h2>
+        <h2> Andy Bot 🧠  </h2>
     </div>
     """,
     unsafe_allow_html=True,
